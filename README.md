@@ -1,5 +1,3 @@
-# SOC--Level1--Labs
-Hands-on SOC Level 1 labs, incident investigation and cybersecurity learning journey.
 # SOC Level 1 Labs
 Hi, I'm Nicoleta!
 Welcome to my cybersecurity portfolio.
